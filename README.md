@@ -28,7 +28,10 @@ Overall, Amazon S3 is a versatile and reliable storage solution for a wide range
 # Steps
 # Step 1:
 
-Create a S3 bucket.
+Create a S3 bucket just by giving a name,
+while giving the name don't forget that you have to give a unique name.(As every bucket is uniquely named on AWS)
+just leave every option default
+
 
 # Step 2:
  Go to properties of the bucket
