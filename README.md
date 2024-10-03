@@ -36,7 +36,7 @@ Create a S3 bucket.
  By default it is disabled
  we have to enable it inorder to host our website by entering the html file name.
 
-![Enabling Static website hostin](https://github.com/AbdulR431/Simple-static-website-hosted-on-AWSS3/blob/main/Images/s3%20bucket%20enabling%20static%20website%20hosting.PNG
+![Enabling Static website hosting](https://github.com/AbdulR431/Simple-static-website-hosted-on-AWSS3/blob/main/Images/s3%20bucket%20enabling%20static%20website%20hosting.PNG)
 
 # Step 3:
  Now we get an url of the bucket.
