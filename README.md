@@ -31,6 +31,9 @@ Overall, Amazon S3 is a versatile and reliable storage solution for a wide range
 Create a S3 bucket just by giving a name,
 while giving the name don't forget that you have to give a unique name.(As every bucket is uniquely named on AWS)
 just leave every option default
+And create the bucket
+
+![S3 bucket creation](https://github.com/AbdulR431/Simple-static-website-hosted-on-AWSS3/blob/main/Images/Creating%20S3%20bucket.PNG)
 
 
 # Step 2:
@@ -54,7 +57,7 @@ just leave every option default
  ![unblocked the access to the S3 bucket](https://github.com/AbdulR431/Simple-static-website-hosted-on-AWSS3/blob/main/Images/S3%20bucket%20Access.PNG)
 
  # Step 4:
-Now lets upload the necessary files to the bucket as a final step.
+Now lets upload the html and image file to the bucket as a final step.
 
 Our Website is successfully hosted !!
 We can access our website 
